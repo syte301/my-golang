@@ -1,7 +1,7 @@
 package main
 
 import (
-    "mymath"
+    "my-golang/mymath"
     "fmt"
 )
 
